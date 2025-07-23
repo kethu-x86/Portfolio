@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
             skills: [
                 { name: 'Java', icon: 'https://www.vectorlogo.zone/logos/java/java-icon.svg' },
                 { name: 'Python', icon: 'https://www.vectorlogo.zone/logos/python/python-icon.svg' },
-                { name: 'C/C++', icon: 'https://www.vectorlogo.zone/logos/w3_c/w3_c-icon.svg' },
+                { name: 'C', icon: 'https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon.svg    ' },
                 { name: 'HTML5', icon: 'https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' },
                 { name: 'CSS3', icon: 'https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg' },
                 { name: 'JavaScript', icon: 'https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg' },
